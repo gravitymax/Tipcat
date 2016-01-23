@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Tipcat.xcodeproj">
+      location = "self:/Users/gravitymax/Documents/Vivien/_classes/creative_code/iOS/Tipcat/Tipcat.xcodeproj">
    </FileRef>
 </Workspace>
