@@ -495,6 +495,7 @@
 				8C6E75BF1C52EF8E00BA3818 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8C6E75C01C52EF8E00BA3818 /* Build configuration list for PBXNativeTarget "TipcatTests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +504,7 @@
 				8C6E75C21C52EF8E00BA3818 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8C6E75C31C52EF8E00BA3818 /* Build configuration list for PBXNativeTarget "TipcatUITests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +513,7 @@
 				8C6E75C51C52EF8E00BA3818 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

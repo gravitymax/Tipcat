@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet weak var billField: UITextField!
+    
     @IBOutlet weak var tipLabel: UILabel!
     @IBOutlet weak var totalLabel: UILabel!
     
@@ -32,11 +33,11 @@ class ViewController: UIViewController {
     @IBAction func onEditingChanged(sender: AnyObject) {
         
         var tipPercentages = [0.15, 0.18, 0.2]
-        var tipPercentage = tipPercentages[tipControl.selectedSegmentIndex]
+        let tipPercentage = tipPercentages[tipControl.selectedSegmentIndex]
         
-        var billAmount = NSString(string: billField.text!).doubleValue
-        var tip = billAmount * tipPercentage
-        var total = billAmount + tip
+        let billAmount = NSString(string: billField.text!).doubleValue
+        let tip = billAmount * tipPercentage
+        let  total = billAmount + tip
         
         tipLabel.text = "$\(tip)"
         totalLabel.text = "$\(total)"
