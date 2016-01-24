@@ -13,9 +13,9 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="654"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="Tipcat_launch" id="7vp-Nm-jAJ">
-                                <rect key="frame" x="0.0" y="-6" width="375" height="667"/>
-                                <autoresizingMask key="autoresizingMask"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Tipcat_launch" id="poB-z7-NL7">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="654"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -25,7 +25,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="28" y="355"/>
+            <point key="canvasLocation" x="27.5" y="355"/>
         </scene>
     </scenes>
     <resources>
