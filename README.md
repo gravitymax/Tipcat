@@ -1,7 +1,7 @@
 # Tipcat
 **Tip calculator**
 
-This os a Swift app that lets you calculate your tip based on your bill total and a tip percentage. 
+This is a Swift app that lets you calculate your tip based on your bill total and a tip percentage. 
 
 This project took 5 hours to complete:
 * 1 hour - viewing intro to swift and tutorial materials
