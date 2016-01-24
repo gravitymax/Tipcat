@@ -9,4 +9,5 @@ Swift project submission for codepath. This project took 4 hours to complete:
 
 All required tasks were created. Added an app icon, a launch image, and a background image.
 
-![Tipcat Walkthrough](http://github.com/gravitymax/Tipcat/Tipcat_walkthrough.gif)
+![Tipcat Walkthrough](https://github.com/gravitymax/Tipcat/blob/master/Tipcat_walkthrough.gif)
+
